@@ -5,7 +5,7 @@ body {
 
 #navbar {
   overflow: hidden;
-  background-color: #333;
+  background-color: rgb(145, 88, 88);
   top: 0;
   width: 100%;
 }
@@ -35,9 +35,9 @@ body {
 }
 
 #main {
-  background-color: lightblue;
+  background-color: rgb(143, 191, 207);
   width: 300px;
-  border: 15px solid rgb(207, 9, 42);
+  border: 15px solid rgb(15, 65, 65);
   padding: 50px;
   margin: 20px;
   display: inline-block;
