@@ -48,7 +48,7 @@ export default {
         Name: '',
         PhoneNo: '',
       },
-      checkoutMsg: false, //This is the checkout message which is hidden at the moment. 
+      checkoutMsg: false, // checkout message which is hidden at the moment. 
       orders: [],
     }
   },
